@@ -1,0 +1,12 @@
+F:\Обучение\dpmApi\Database\bin\Debug\Database.dacpac
+F:\Обучение\dpmApi\Database\bin\Debug\Database.dll
+F:\Обучение\dpmApi\Database\bin\Debug\Database.pdb
+F:\Обучение\dpmApi\Database\obj\Debug\Database.sqlproj.AssemblyReference.cache
+F:\Обучение\dpmApi\Database\obj\Debug\Database.dll
+F:\Обучение\dpmApi\Database\obj\Debug\Database.pdb
+F:\Обучение\dpmApiArm\Database\bin\Debug\Database.dacpac
+F:\Обучение\dpmApiArm\Database\bin\Debug\Database.dll
+F:\Обучение\dpmApiArm\Database\bin\Debug\Database.pdb
+F:\Обучение\dpmApiArm\Database\obj\Debug\Database.sqlproj.AssemblyReference.cache
+F:\Обучение\dpmApiArm\Database\obj\Debug\Database.dll
+F:\Обучение\dpmApiArm\Database\obj\Debug\Database.pdb
