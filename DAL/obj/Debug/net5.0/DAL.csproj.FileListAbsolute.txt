@@ -1,0 +1,12 @@
+C:\other\dpmApi\DAL\bin\Debug\net5.0\DAL.deps.json
+C:\other\dpmApi\DAL\bin\Debug\net5.0\DAL.dll
+C:\other\dpmApi\DAL\bin\Debug\net5.0\ref\DAL.dll
+C:\other\dpmApi\DAL\bin\Debug\net5.0\DAL.pdb
+C:\other\dpmApi\DAL\obj\Debug\net5.0\DAL.csproj.AssemblyReference.cache
+C:\other\dpmApi\DAL\obj\Debug\net5.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\other\dpmApi\DAL\obj\Debug\net5.0\DAL.AssemblyInfoInputs.cache
+C:\other\dpmApi\DAL\obj\Debug\net5.0\DAL.AssemblyInfo.cs
+C:\other\dpmApi\DAL\obj\Debug\net5.0\DAL.csproj.CoreCompileInputs.cache
+C:\other\dpmApi\DAL\obj\Debug\net5.0\DAL.dll
+C:\other\dpmApi\DAL\obj\Debug\net5.0\ref\DAL.dll
+C:\other\dpmApi\DAL\obj\Debug\net5.0\DAL.pdb

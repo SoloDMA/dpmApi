@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Обучение\\dpmApiArm\\DAL\\DAL.csproj": {}
+    "C:\\other\\dpmApi\\DAL\\DAL.csproj": {}
   },
   "projects": {
-    "F:\\Обучение\\dpmApiArm\\DAL\\DAL.csproj": {
+    "C:\\other\\dpmApi\\DAL\\DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Обучение\\dpmApiArm\\DAL\\DAL.csproj",
+        "projectUniqueName": "C:\\other\\dpmApi\\DAL\\DAL.csproj",
         "projectName": "DAL",
-        "projectPath": "F:\\Обучение\\dpmApiArm\\DAL\\DAL.csproj",
-        "packagesPath": "C:\\Users\\solom\\.nuget\\packages\\",
-        "outputPath": "F:\\Обучение\\dpmApiArm\\DAL\\obj\\",
+        "projectPath": "C:\\other\\dpmApi\\DAL\\DAL.csproj",
+        "packagesPath": "C:\\Users\\SolomentsevD\\.nuget\\packages\\",
+        "outputPath": "C:\\other\\dpmApi\\DAL\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\solom\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\SolomentsevD\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -45,6 +41,10 @@
           "targetAlias": "net5.0",
           "dependencies": {
             "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.15, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[5.0.15, )"
             }

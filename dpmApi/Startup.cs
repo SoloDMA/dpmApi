@@ -4,8 +4,8 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using dpmApi.Services;
-using Microsoft.AspNetCore.Authorization;
-using Microsoft.AspNetCore.Authentication.JwtBearer;
+using DAL.DpmContext;
+using Microsoft.EntityFrameworkCore;
 
 namespace dpmApi
 {
@@ -23,11 +23,10 @@ namespace dpmApi
         {
             services.AddJwtAuth();
 
-            //services.AddAuthorization(options => {
-            //    options.DefaultPolicy = new AuthorizationPolicyBuilder(JwtBearerDefaults.AuthenticationScheme)
-            //    .RequireAuthenticatedUser()
-            //    .Build();
-            //});
+            string connection = Configuration.GetConnectionString("DefaultConnection");
+
+            services.AddDbContext<DpmContext>(options => 
+                    options.UseSqlServer(connection));
 
             services.AddControllers();
         }
